@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(ping -n 6 127.0.0.1)",
+      "Bash(claude mcp *)",
+      "Bash(npx skills *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\hp\\\\Desktop\\\\Xpodelivery-master\" -Recurse -ErrorAction SilentlyContinue)",
+      "Bash(Select-Object -First 50)",
+      "mcp__supabase__get_publishable_keys",
+      "mcp__supabase__get_project_url",
+      "Read(//c/Users/hp/.claude/skills/ui-ux-pro-max/**)",
+      "Bash(python scripts/search.py \"logistics shipping admin dashboard bright vibrant\" --design-system -p \"XpoDelivery Admin\")",
+      "Bash(python scripts/search.py \"bright colorful logistics admin dashboard\" --domain color -n 3)",
+      "Bash(npx next *)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "supabase"
+  ]
+}
