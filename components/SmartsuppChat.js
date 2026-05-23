@@ -11,7 +11,7 @@ export default function SmartsuppChat() {
             var s1 = document.createElement('script');
             var s0 = document.getElementsByTagName('script')[0];
             s1.async = true;
-            s1.src = 'https://embed.tawk.to/6a0f34ccade0d71c323938eb/1jp5mcg15';
+            s1.src = 'https://embed.tawk.to/6a10622c8185521c3224bc10/1jp7vuvmo';
             s1.charset = 'UTF-8';
             s1.setAttribute('crossorigin', '*');
             s0.parentNode.insertBefore(s1, s0);
